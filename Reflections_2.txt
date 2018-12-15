@@ -1,0 +1,4 @@
+TDD to podejœcie do tworzenia oprogramowania. 
+Na taki sposób tworzenia oprogramowania uwagê zwróci³ Kent Beck1. 
+Podejœcie to zak³ada, ¿e przed napisaniem w³aœciwej funkcjonalnoœci programista zaczyna od utworzenia testu. 
+Test ten powinien testowaæ funkcjonalnoœæ, któr¹ dopiero chcemy napisaæ.
