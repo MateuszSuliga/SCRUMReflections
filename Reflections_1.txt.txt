@@ -1,0 +1,5 @@
+Wymagania funkcjonalne okreœlaj¹ funkcjonalnoœæ tworzonego oprogramowania.
+
+Wymagania funkcjonalne mog¹ byæ podzielone na wymagania funkcjonalne, wymagania dotycz¹ce zachowania systemu oraz wymagania dotycz¹ce danych.
+
+Wymagania niefunkcjonalne okreœlaj¹ po¿¹dane cechy tworzonego systemu i czêsto maj¹ bardziej znacz¹cy wp³yw na wybór architektury dla tworzonego systemu ni¿ wymagania funkcjonalne. Wymagania jakoœciowe dotycz¹ min. wydajnoœci, dostêpnoœci, niezawodnoœci, skalowalnoœci i przenoœnoœci.
